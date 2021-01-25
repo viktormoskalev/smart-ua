@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/smart-ua/static/css/main.2ba476e7.chunk.css",
+    "main.js": "/smart-ua/static/js/main.351270fa.chunk.js",
+    "main.js.map": "/smart-ua/static/js/main.351270fa.chunk.js.map",
+    "runtime-main.js": "/smart-ua/static/js/runtime-main.8df7b623.js",
+    "runtime-main.js.map": "/smart-ua/static/js/runtime-main.8df7b623.js.map",
+    "static/css/2.72fa9a86.chunk.css": "/smart-ua/static/css/2.72fa9a86.chunk.css",
+    "static/js/2.56de2f4d.chunk.js": "/smart-ua/static/js/2.56de2f4d.chunk.js",
+    "static/js/2.56de2f4d.chunk.js.map": "/smart-ua/static/js/2.56de2f4d.chunk.js.map",
+    "static/js/3.5ad1abe8.chunk.js": "/smart-ua/static/js/3.5ad1abe8.chunk.js",
+    "static/js/3.5ad1abe8.chunk.js.map": "/smart-ua/static/js/3.5ad1abe8.chunk.js.map",
+    "index.html": "/smart-ua/index.html",
+    "static/css/2.72fa9a86.chunk.css.map": "/smart-ua/static/css/2.72fa9a86.chunk.css.map",
+    "static/css/main.2ba476e7.chunk.css.map": "/smart-ua/static/css/main.2ba476e7.chunk.css.map",
+    "static/js/2.56de2f4d.chunk.js.LICENSE.txt": "/smart-ua/static/js/2.56de2f4d.chunk.js.LICENSE.txt",
+    "static/media/logo.77fefb91.png": "/smart-ua/static/media/logo.77fefb91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8df7b623.js",
+    "static/css/2.72fa9a86.chunk.css",
+    "static/js/2.56de2f4d.chunk.js",
+    "static/css/main.2ba476e7.chunk.css",
+    "static/js/main.351270fa.chunk.js"
+  ]
+}
